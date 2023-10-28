@@ -1,0 +1,12 @@
+C Series - Common problems Using Arrays
+________________________________________________________
+Sort Characters Alphabetically
+Sum of Two Minimum Elements
+Remove Duplicate Element
+Sum of Elements in Array is Divisible by Given Element
+Array Addition
+Array Subtraction
+Array Multiplication
+Transpose Matrix in Array
+Union in Array
+Intersection in Array
