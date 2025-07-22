@@ -1,13 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar  from './Navbar';
+import Home from './Home';
 
 function App() {
   const title = "Bonjour"
   return (
     <div className="App">
-      <h1>{ title }</h1>
-      <p>This is a paragraph</p>
-      <p>{Math.random() * 5 }</p>
+      <Navbar />
+      <div>
+        <Home />
+      </div>
     </div>
 
   );
